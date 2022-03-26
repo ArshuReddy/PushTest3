@@ -1,3 +1,10 @@
+foods:
+``````
 Biryani
 Shawarma
 Icecream
+movies:
+``````
+Bahubali
+Fast and Furious
+Iron Man
